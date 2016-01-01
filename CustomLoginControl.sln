@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLoginControl", "CustomLoginControl\CustomLoginControl.csproj", "{C2B9D14A-B381-47D2-9DD1-76691160E0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginControl", "..\..\Git\Vuokra_Kirjanpito\WindowsFormsControl_Login\LoginControl.csproj", "{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B9D14A-B381-47D2-9DD1-76691160E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B9D14A-B381-47D2-9DD1-76691160E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B9D14A-B381-47D2-9DD1-76691160E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B9D14A-B381-47D2-9DD1-76691160E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
